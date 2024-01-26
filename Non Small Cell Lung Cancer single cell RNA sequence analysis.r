@@ -1,4 +1,4 @@
-setwd("C:\\Users\\xye246\\OneDrive - Corteva\\Documents\\Ependymal_cells_analysis\\Data")
+setwd("...\Data")
 #Loading Libraries
 library(Seurat)
 library(tidyverse)
